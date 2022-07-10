@@ -1,0 +1,3 @@
+[submodule "DailySharePrice"]
+	path = DailySharePrice
+	url = git@github.com:SiddhiGit0201/sample.git
