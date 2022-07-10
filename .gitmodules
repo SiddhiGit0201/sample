@@ -1,0 +1,3 @@
+[submodule "DailySharePrice"]
+	path = DailySharePrice
+	url = https://github.com/SiddhiGit0201/My-project.git
